@@ -1,0 +1,12 @@
+{
+  "sprites": {
+    "hero": { "url": "assets/sprites/hero.png", "width": 16, "height": 16 },
+    "slime": { "url": "assets/sprites/slime.png", "width": 16, "height": 16 },
+    "coin": { "url": "assets/sprites/coin.png", "width": 16, "height": 16 }
+  },
+  "audio": {
+    "jump": { "url": "assets/audio/se_jump.wav", "volume": 0.8 },
+    "coin": { "url": "assets/audio/se_coin.wav", "volume": 1.0 },
+    "explosion": { "url": "assets/audio/se_explosion.wav", "volume": 0.6 }
+  }
+}
